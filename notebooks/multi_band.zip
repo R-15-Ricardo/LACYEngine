@@ -1,7 +1,0 @@
-{
-  "error": {
-    "code": 500,
-    "message": "An internal error has occurred (request: d19a868a-92f0-4af8-8687-b0168309c6e2) (computation: \"e7b8ae74f1f76a9ce3780f27a38d5de6\")",
-    "status": "INTERNAL"
-  }
-}
