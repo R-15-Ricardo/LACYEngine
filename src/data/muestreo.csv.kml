@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>muestreo.csv</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>RS-02</name>
+      <description><![CDATA[X: 20.346928<br>Y: -102.779392]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="X">
+          <value>20.346928</value>
+        </Data>
+        <Data name="Y">
+          <value>-102.779392</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -102.779392,20.346928,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RS-03</name>
+      <description><![CDATA[X: 20.399667<br>Y: -103.090619]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="X">
+          <value>20.399667</value>
+        </Data>
+        <Data name="Y">
+          <value>-103.090619</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -103.090619,20.399667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RS-04</name>
+      <description><![CDATA[X: 20.442003<br>Y: -103.143814]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="X">
+          <value>20.442003</value>
+        </Data>
+        <Data name="Y">
+          <value>-103.143814</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -103.143814,20.442003,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RS-05</name>
+      <description><![CDATA[X: 20.512825<br>Y: -103.174558]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="X">
+          <value>20.512825</value>
+        </Data>
+        <Data name="Y">
+          <value>-103.174558</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -103.174558,20.512825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RS-06</name>
+      <description><![CDATA[X: 20.571036<br>Y: -103.147283]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="X">
+          <value>20.571036</value>
+        </Data>
+        <Data name="Y">
+          <value>-103.147283</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -103.147283,20.571036,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RS-07</name>
+      <description><![CDATA[X: 20.668289<br>Y: -103.187169]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="X">
+          <value>20.668289</value>
+        </Data>
+        <Data name="Y">
+          <value>-103.187169</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -103.187169,20.668289,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RS-08</name>
+      <description><![CDATA[X: 20.839097<br>Y: -103.328972]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="X">
+          <value>20.839097</value>
+        </Data>
+        <Data name="Y">
+          <value>-103.328972</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -103.328972,20.839097,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RS-09</name>
+      <description><![CDATA[X: 21.038356<br>Y: -103.426036]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="X">
+          <value>21.038356</value>
+        </Data>
+        <Data name="Y">
+          <value>-103.426036</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -103.426036,21.038356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RS-10</name>
+      <description><![CDATA[X: 20.912106<br>Y: -103.711964]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="X">
+          <value>20.912106</value>
+        </Data>
+        <Data name="Y">
+          <value>-103.711964</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -103.711964,20.912106,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AA-01</name>
+      <description><![CDATA[X: 21.190106<br>Y: -104.073053]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="X">
+          <value>21.190106</value>
+        </Data>
+        <Data name="Y">
+          <value>-104.073053</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -104.073053,21.190106,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AA-02</name>
+      <description><![CDATA[X: 20.537825<br>Y: -103.296703]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="X">
+          <value>20.537825</value>
+        </Data>
+        <Data name="Y">
+          <value>-103.296703</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -103.296703,20.537825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RZ-01</name>
+      <description><![CDATA[X: 20.497869<br>Y: -103.216722]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="X">
+          <value>20.497869</value>
+        </Data>
+        <Data name="Y">
+          <value>-103.216722</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -103.216722,20.497869,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
