@@ -242,9 +242,14 @@ class LACYPort(Resource):
 
 api.add_resource(LACYPort, "/")
 
-@app.before_first_request
-def preload_variables():
-    app.config['inference_settings'] = initialize_engine()
+# with app.app_context():
+# @app.before_first_request
+# def preload_variables():
+    # app.config['inference_settings'] = initialize_engine()
 
 if __name__ == "__main__":
+    with app.app_context():
+        app.config['inference_settings'] = initialize_engine()
+        
     app.run(port=5000, debug=False)
+    

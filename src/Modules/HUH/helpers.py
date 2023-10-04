@@ -4,7 +4,7 @@ from shapely.geometry import Point
 from pyproj import Transformer
 
 def kml_to_geodataframe(kml_file):
-    with open(kml_file, 'rt', encoding='utf-8') as f:
+    with open(kml_file, 'rb') as f:
         kml_data = f.read()
 
     k = KML()
